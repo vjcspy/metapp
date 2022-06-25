@@ -5,7 +5,7 @@
 Start the app in the `dev` environment:
 
 ```bash
-yarn start
+npm start
 ```
 
 ## Packaging for Production
@@ -13,5 +13,5 @@ yarn start
 To package apps for the local platform:
 
 ```bash
-yarn run package
+npm run package
 ```
